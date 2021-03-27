@@ -1,0 +1,76 @@
+.top-container
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  color: #000;
+  font-family: 'Maitree', serif;
+  
+  
+}
+
+
+
+
+   .neon {
+  color: #fff;
+  text-shadow:
+    0 0 5px #fff,
+    0 0 10px #fff,
+    0 0 20px #fff,
+    0 0 40px orange,
+    0 0 80px orange,
+    0 0 90px orange,
+    0 0 100px orange,
+    0 0 150px orange;
+}
+
+.extra
+{
+  font-size: 3rem;
+}
+
+.bottom-container
+{
+  background-color: #ffc93c;            
+  color: black;
+   
+   text-align: center;
+    
+  padding-top: 30px;
+  
+}
+.main
+{
+   background: url(home.jpg) no-repeat center center fixed; 
+background-size: 100% 100%;
+background-position: center;
+}
+
+.cms
+{
+  width:30%;
+  margin:auto;
+  padding-bottom: 20px;
+  font-size: 4rem;
+}
+.endp{
+  color:black;
+  font-size:0.75rem;
+  padding:20px 650px 20px;
+  font-size: 1.3rem;
+}
+.footer-link
+{
+  padding-right:10px;
+  padding-left: 10px;
+  font-size:1.5rem; 
+}
+.footer-link:hover
+{
+  color: orange;
+}
+
